@@ -1,0 +1,96 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 55;
+	objects = {
+
+/* Begin PBXFileReference section */
+		F2CA9AA2271775DF00C019D8 /* Sync vs Async.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Sync vs Async.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA32717921D00C019D8 /* Async Await.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Async Await.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA42717923B00C019D8 /* Let's build Network call.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Let's build Network call.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA52717927A00C019D8 /* Let's Implemet.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Let's Implemet.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA6271792A500C019D8 /* Continuations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Continuations.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA7271792D400C019D8 /* Tasks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Tasks.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA8271792E200C019D8 /* Task Groups.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task Groups.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AA9271792F500C019D8 /* Async Collections.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Async Collections.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AAA2717930B00C019D8 /* Actors.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Actors.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AAB2717931D00C019D8 /* Let's wrap it up.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Let's wrap it up.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AAC2717935F00C019D8 /* Advanced Use Case.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Advanced Use Case.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		F2CA9AAD27179F2F00C019D8 /* Let's Implement Taks.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Let's Implement Taks.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		F2CA9A9B271775C300C019D8 = {
+			isa = PBXGroup;
+			children = (
+				F2CA9AA2271775DF00C019D8 /* Sync vs Async.playground */,
+				F2CA9AA32717921D00C019D8 /* Async Await.playground */,
+				F2CA9AA6271792A500C019D8 /* Continuations.playground */,
+				F2CA9AA42717923B00C019D8 /* Let's build Network call.playground */,
+				F2CA9AA52717927A00C019D8 /* Let's Implemet.playground */,
+				F2CA9AA9271792F500C019D8 /* Async Collections.playground */,
+				F2CA9AA7271792D400C019D8 /* Tasks.playground */,
+				F2CA9AA8271792E200C019D8 /* Task Groups.playground */,
+				F2CA9AAD27179F2F00C019D8 /* Let's Implement Taks.playground */,
+				F2CA9AAC2717935F00C019D8 /* Advanced Use Case.playground */,
+				F2CA9AAA2717930B00C019D8 /* Actors.playground */,
+				F2CA9AAB2717931D00C019D8 /* Let's wrap it up.playground */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		F2CA9A9C271775C300C019D8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1300;
+			};
+			buildConfigurationList = F2CA9A9F271775C300C019D8 /* Build configuration list for PBXProject "Concurrency" */;
+			compatibilityVersion = "Xcode 13.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F2CA9A9B271775C300C019D8;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		F2CA9AA0271775C300C019D8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		F2CA9AA1271775C300C019D8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F2CA9A9F271775C300C019D8 /* Build configuration list for PBXProject "Concurrency" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F2CA9AA0271775C300C019D8 /* Debug */,
+				F2CA9AA1271775C300C019D8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F2CA9A9C271775C300C019D8 /* Project object */;
+}
